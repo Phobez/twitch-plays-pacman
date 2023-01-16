@@ -2,3 +2,16 @@
     margin-left: 5px;
     margin-right: 5px;
 }
+
+.instruction {
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.top-voted {
+    color: darkblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
