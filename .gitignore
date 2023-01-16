@@ -101,4 +101,5 @@ typings/
 
 # TernJS port file
 .tern-port
+
 streamer/src/serviceAccountKey.json
